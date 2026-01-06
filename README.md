@@ -6,3 +6,7 @@
 2. pip install opencv-python
 3. pip install tensorflow tensorflow-hub opencv-python
 4. pip install numpy
+
+
+#Editor
+VSCode or Google Colab
